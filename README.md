@@ -14,7 +14,7 @@ This project focuses on implementing RFM (Recency, Frequency, Monetary) analysis
 
 ## Introduction
 
-Welcome to the RFM Analysis project! In this Python Pandas project, we utilize the power of data manipulation and analysis to implement RFM segmentation. By categorizing customers based on Recency, Frequency, and Monetary value, we identify specific customer segments for strategic decision-making.
+Welcome to the RFM Analysis project! In this Python Pandas project, we utilize the power of data manipulation and analysis to implement RFM segmentation. By categorizing customers based on Recency, Frequency, and Monetary value, we identify specific customer segments for strategic decision-making.Performed RFM Analysis on a dataset comprising 90,000 rows and 10 columns to uncover distinct customer segments. 
 
 ## Features
 
